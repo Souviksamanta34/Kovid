@@ -1,6 +1,6 @@
 # Kovid
 Project Link
-https://souviksamanta34.github.io/FutureReadyTalent/
+https://souviksamanta34.github.io/Kovid/
 
 # Kovid - Medical Category Bootstrap Project
 
