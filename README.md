@@ -71,7 +71,7 @@ The template utilizes the following dependencies:
 - Google Fonts: External fonts for text styling.
 
 ## Usage
-To use this template, simply clone the repository and customize the content, images, and links according to your needs. You can update the HTML and CSS files to match your branding and requirements. The template is responsive and designed to work well on various devices.
+To use this template, simply clone the repository and customize the content, images, and links according to your needs. You can update the HTML and CSS files to match your branding and requirements. The template is responsive and designed to work well on various device.
 
 ## Contributing
 Contributions to this template are welcome. If you find any issues or have suggestions for improvements, feel free to create an issue or submit a pull request.
