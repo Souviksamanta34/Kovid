@@ -74,7 +74,7 @@ The template utilizes the following dependencies:
 To use this template, simply clone the repository and customize the content, images, and links according to your needs. You can update the HTML and CSS files to match your branding and requirements. The template is responsive and designed to work well on various devices.
 
 ## Contributing
-Contributions to this template are welcome. If you find any issues or have suggestions for improvements, feel free to create an issue or submit a pull request.
+Contributions to this template are welcome. If you find any issues or have suggestions for improvements, feel free to create an issue or submit a pull requests.
 
 ## License
 This template is distributed under the [MIT License](LICENSE). You are free to use, modify, and distribute the template for both personal and commercial purposes. Attribution to the original creator is appreciated but not required.
